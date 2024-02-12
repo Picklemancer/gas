@@ -1,0 +1,30 @@
+[
+  {
+    "key": "BP",
+    "icon": "https://www.nationalcarboncapturecenter.com/wp-content/uploads/2021/10/bp-logo-png-transparent-768x1003.png"
+  },
+  {
+    "key": "SHELL",
+    "icon": "https://cdn.freebiesupply.com/logos/large/2x/shell-logo-png-transparent.png"
+  },
+  {
+    "key": "GALP",
+    "icon": "https://seeklogo.com/images/G/Galp_Energia-logo-50CA3B8788-seeklogo.com.png"
+  },
+  {
+    "key": "CARREFOUR",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Carrefour_logo.svg/1277px-Carrefour_logo.svg.png"
+  },
+  {
+    "key": "BALLENOIL",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_Ballenoil.svg"
+  },
+  {
+    "key": "REPSOL",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Repsol_company_logo.svg/1236px-Repsol_company_logo.svg.png"
+  },
+  {
+    "key": "CEPSA",
+    "icon": "https://cdn.freebiesupply.com/logos/large/2x/cepsa-logo-png-transparent.png"
+  }
+]
